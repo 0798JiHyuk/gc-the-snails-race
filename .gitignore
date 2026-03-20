@@ -1,0 +1,4 @@
+auth-service/.gradle/
+auth-service/build/
+user-service/.gradle/
+user-service/build/
